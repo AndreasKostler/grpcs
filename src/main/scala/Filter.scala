@@ -1,4 +1,4 @@
-package commbank.grpcs
+package com.andreaskostler.grpcs
 import Service._
 
 object Filter {

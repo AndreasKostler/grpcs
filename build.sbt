@@ -4,7 +4,7 @@ import com.typesafe.sbt.SbtScalariform.ScalariformKeys
 
 name := "grpcs"
 
-organization := "commbank"
+organization := "com.andreaskostler"
 
 version := "0.1.0"
 
@@ -55,7 +55,7 @@ scalacOptions ++= Seq(
 
 scalacOptions in (Compile, console) ~= (_ filterNot (_ == "-Ywarn-unused-import"))
 
-initialCommands := "import commbank.grpcs._"
+initialCommands := "import com.andreaskostler.grpcs._"
 
 SbtScalariform.scalariformSettings
 

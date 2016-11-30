@@ -1,4 +1,4 @@
-package commbank.grpcs
+package com.andreaskostler.grpcs
 
 import org.scalatest.{Matchers, PropSpec}
 import org.scalatest.prop._

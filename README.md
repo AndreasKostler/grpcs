@@ -1,1 +1,1 @@
-Simple Sbt project with Scala.
+GRPS - `umgangssprachlich; "Grips" mit der Bedeutung "Hirn, Verstand, Auffassungsgabe"`

@@ -1,1 +1,1 @@
-GRPS - `umgangssprachlich; "Grips" mit der Bedeutung "Hirn, Verstand, Auffassungsgabe"`
+GRPCS - `umgangssprachlich; "Grips" mit der Bedeutung "Hirn, Verstand, Auffassungsgabe"`
